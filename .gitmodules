@@ -1,0 +1,3 @@
+[submodule "espman"]
+	path = espman
+	url = https://github.com/sticilface/ESPmanager
