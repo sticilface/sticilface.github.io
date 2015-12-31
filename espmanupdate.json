@@ -1,8 +1,14 @@
 [ 
-  "/espman/examples/ESPmanager-example/data/jq1.11.1.js.gz", 
-  "/espman/examples/ESPmanager-example/data/jqm1.4.5.css.gz", 
-  "/espman/examples/ESPmanager-example/data/jqm1.4.5.js.gz", 
-  "/espman/examples/ESPmanager-example/data/configjava.js", 
-  "/espman/examples/ESPmanager-example/data/ajax-loader.gif", 
-  "/espman/examples/ESPmanager-example/data/config.htm"
+  {"file":"/espman/examples/ESPmanager-example/data/jq1.11.1.js.gz", 
+  	"md5":"ec30296b1e5bbf610b7b1816330ea0b5"}, 
+  {"file":"/espman/examples/ESPmanager-example/data/jqm1.4.5.css.gz", 
+  	"md5": "c0c2cd7cd83abfc854e3d4fe14d460ab"}, 
+  {"file":"/espman/examples/ESPmanager-example/data/jqm1.4.5.js.gz", 
+  	"md5": "edd8735600b4e5be9a461589a8c62bcd"}, 
+  {"file":"/espman/examples/ESPmanager-example/data/configjava.js", 
+  	"md5": "e589601fb7392c08fdf0d14c7662d124"}, 
+  {"file":"/espman/examples/ESPmanager-example/data/ajax-loader.gif", 
+  	"md5": "8fd7e719b06cd3f701c791adb62bd7a6"}, 
+  {"file":"/espman/examples/ESPmanager-example/data/config.htm", 
+  	"md5": "fa06cffc34a973632feb5fb7de8c2aaa"}
 ]
