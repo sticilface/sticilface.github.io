@@ -9,9 +9,9 @@
 		},
 		{
 			"index" : 1,
-			"location" : "http://sticilface.github.io/file1.txt",
-			"saveto" : "/file1.txt",
-			"md5" : "ec0167494aa629c3ba612c3a905bf301"
+			"location" : "http://sticilface.github.io/largefile.bin",
+			"saveto" : "/largefile.bin",
+			"md5" : "62fe3e59f62402c05b08427bcff27ac6"
 		},
 		{
 			"index" : 2,
