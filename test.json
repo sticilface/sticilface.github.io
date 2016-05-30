@@ -3,27 +3,27 @@
 	"files" : [
 		{
 			"index" : 0,
-			"location" : "/file0.txt",
-			"saveto" : "file0.txt",
-			"md5" : "ec30296b1e5bbf610b7b1816330ea0b5"
+			"location" : "http://code.jquery.com/jquery-1.11.1.min.js",
+			"saveto" : "/jq1.min",
+			"md5" : "8101d596b2b8fa35fe3a634ea342d7c3"
 		},
 		{
 			"index" : 1,
-			"location" : "/file1.txt",
-			"saveto" : "file1.txt",
-			"md5" : "ec30296b1e5bbf610b7b1816330ea0b5"
+			"location" : "http://sticilface.github.io/file1.txt",
+			"saveto" : "/file1.txt",
+			"md5" : "ec0167494aa629c3ba612c3a905bf301"
 		},
 		{
 			"index" : 2,
-			"location" : "/file2.txt",
-			"saveto" : "file2.txt",
-			"md5" : "ec30296b1e5bbf610b7b1816330ea0b5"
+			"location" : "http://sticilface.github.io/file2.txt",
+			"saveto" : "/file2.txt",
+			"md5" : "4525131b3b32b3d821a3ad07b7fa8bd5"
 		},
 		{
 			"index" : 3,
-			"location" : "/file3.txt",
-			"saveto" : "file3.txt",
-			"md5" : "ec30296b1e5bbf610b7b1816330ea0b5"
+			"location" : "http://sticilface.github.io/file3.txt",
+			"saveto" : "/file3.txt",
+			"md5" : "f390d6bf3479d3a4ee57f86656c30684"
 		}
 	]
 }
