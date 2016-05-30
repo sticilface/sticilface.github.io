@@ -21,9 +21,9 @@
 		},
 		{
 			"index" : 3,
-			"location" : "http://sticilface.github.io/file3.txt",
-			"saveto" : "/file3.txt",
-			"md5" : "f390d6bf3479d3a4ee57f86656c30684"
+			"location" : "http://sticilface.github.io/sketch.bin",
+			"saveto" : "sketch",
+			"md5" : "ddd9c858302fdbc20bde62876208662d"
 		}
 	]
 }
