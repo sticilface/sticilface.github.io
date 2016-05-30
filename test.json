@@ -1,0 +1,29 @@
+{
+	"filecount" : 4,
+	"files" : [
+		{
+			"index" : 0,
+			"location" : "/file0.txt",
+			"saveto" : "file0.txt",
+			"md5" : "ec30296b1e5bbf610b7b1816330ea0b5"
+		},
+		{
+			"index" : 1,
+			"location" : "/file1.txt",
+			"saveto" : "file1.txt",
+			"md5" : "ec30296b1e5bbf610b7b1816330ea0b5"
+		},
+		{
+			"index" : 2,
+			"location" : "/file2.txt",
+			"saveto" : "file2.txt",
+			"md5" : "ec30296b1e5bbf610b7b1816330ea0b5"
+		},
+		{
+			"index" : 3,
+			"location" : "/file3.txt",
+			"saveto" : "file3.txt",
+			"md5" : "ec30296b1e5bbf610b7b1816330ea0b5"
+		}
+	]
+}
