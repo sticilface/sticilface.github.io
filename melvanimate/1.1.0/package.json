@@ -1,0 +1,11 @@
+{
+		"filecount" : no_of_file,
+	"files" : [
+		{
+			"index" : index,
+			"location" : "relative web path",
+			"saveto" : "SPIFFS location",
+			"md5" : "checksum"
+		}
+	
+}
