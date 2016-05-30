@@ -3,9 +3,9 @@
 	"files" : [
 		{
 			"index" : 0,
-			"location" : "http://sticilface.github.io/file0.txt",
-			"saveto" : "/file0.txt",
-			"md5" : "c8dacf2058a6997bdb38fb20e06995de"
+			"location" : "http://code.jquery.com/jquery-1.11.1.min.js",
+			"saveto" : "/jq1.min",
+			"md5" : "8101d596b2b8fa35fe3a634ea342d7c3"
 		},
 		{
 			"index" : 1,
