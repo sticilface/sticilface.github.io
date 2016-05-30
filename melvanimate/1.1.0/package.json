@@ -1,6 +1,6 @@
 {
 	"filecount" : 11,
-	"formatSPIFFS" : true,
+	"formatSPIFFS" : false,
 	"clearWiFi" : false,
 	"rooturi" : "http://sticilface.github.io", 
 		"files" : [
