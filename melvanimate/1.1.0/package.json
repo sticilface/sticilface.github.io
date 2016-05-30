@@ -17,8 +17,8 @@
 			},
 			{
 				"location" : "http://sticilface.github.io/melvanimate/1.1.0/jqColorPicker.min.js.gz",
-				"saveto" : "/jqColorPicker.min.js.gz",
-				"md5" : ""
+				"saveto" : "/jquery/jqColorPicker.min.js.gz",
+				"md5" : "55f8b7af2865b6d6af8d512ea3a12ae5"
 			},
 			{
 				"location" : "http://sticilface.github.io/melvanimate/1.1.0/jquery/jqm1.4.5.css.gz",
@@ -38,15 +38,15 @@
 			{
 				"location" : "http://sticilface.github.io/melvanimate/1.1.0/jquery/images/ajax-loader.gif",
 				"saveto" : "/jquery/images/ajax-loader.gif",
-				"md5" : ""
+				"md5" : "8fd7e719b06cd3f701c791adb62bd7a6"
 			},
 			{
-				"location" : "http://sticilface.github.io/melvanimate/1.1.0/jquery/espman/espman.js",
+				"location" : "http://sticilface.github.io/melvanimate/1.1.0/espman/espman.js",
 				"saveto" : "/espman/espman.js",
 				"md5" : "59c5d874fdafd123d71d951289bedbe4"
 			},
 			{
-				"location" : "http://sticilface.github.io/melvanimate/1.1.0/jquery/espman/index.htm",
+				"location" : "http://sticilface.github.io/melvanimate/1.1.0/espman/index.htm",
 				"saveto" : "/espman/index.htm",
 				"md5" : "727e2a3fcca4e5fec7de580125e8315b"
 			}
